@@ -1,8 +1,7 @@
 {
-  "name": "heroku-static-provider",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "express": "~3.3.4"
+  "name": "reactjs-helloworld",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.3.0"
   }
 }
